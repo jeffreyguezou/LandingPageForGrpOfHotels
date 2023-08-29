@@ -1,0 +1,20 @@
+.dropdown {
+    border-radius: 2%;
+}
+
+.selectField {
+    width: 100px;
+    height: 30px;
+    text-align: center;
+}
+
+@media screen and (max-width: 1024px) {
+    .dropdown {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+     .selectField {
+        width: 48%;
+    } 
+}

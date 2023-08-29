@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    padding: 1%;
+    background-color: black;
+    color: gold;
+    justify-content: space-between;
+    align-items: center;
+    height: 5vh;
+}
+@media screen and (max-width: 768px) {
+    .header{
+        height: auto;
+    }
+}
