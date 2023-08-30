@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/LandingPageForGrpOfHotels/static/css/main.5d32c68c.css",
+    "main.js": "/LandingPageForGrpOfHotels/static/js/main.6138d179.js",
+    "static/js/787.6606bfd5.chunk.js": "/LandingPageForGrpOfHotels/static/js/787.6606bfd5.chunk.js",
+    "static/media/backgroundimage.jpeg": "/LandingPageForGrpOfHotels/static/media/backgroundimage.a080a6a0d6caeddbc78a.jpeg",
+    "static/media/pexels-amar-saleem-70441 (1).jpg": "/LandingPageForGrpOfHotels/static/media/pexels-amar-saleem-70441 (1).b59a71750243b7ab91aa.jpg",
+    "static/media/pexels-martin-péchy-2844474 (1).jpg": "/LandingPageForGrpOfHotels/static/media/pexels-martin-péchy-2844474 (1).fb7fc9ae71fc7cfe26f6.jpg",
+    "static/media/pexels-suhel-vba-3659683 (1).jpg": "/LandingPageForGrpOfHotels/static/media/pexels-suhel-vba-3659683 (1).9dff688792de40fd1c97.jpg",
+    "index.html": "/LandingPageForGrpOfHotels/index.html",
+    "main.5d32c68c.css.map": "/LandingPageForGrpOfHotels/static/css/main.5d32c68c.css.map",
+    "main.6138d179.js.map": "/LandingPageForGrpOfHotels/static/js/main.6138d179.js.map",
+    "787.6606bfd5.chunk.js.map": "/LandingPageForGrpOfHotels/static/js/787.6606bfd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d32c68c.css",
+    "static/js/main.6138d179.js"
+  ]
+}
